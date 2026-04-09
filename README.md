@@ -33,9 +33,9 @@ git clone https://github.com/seu-usuario/gestao-alugueis-carros.git
 
 💡 Exemplo de saída
 
-Modelo: Civic
-Início: 10/05/2026
-Fim: 15/05/2026
+Modelo: Civic - 
+Início: 10/05/2026 - 
+Fim: 15/05/2026 -
 Total: 500.00
 
 Faturamento total: R$ 500.00
